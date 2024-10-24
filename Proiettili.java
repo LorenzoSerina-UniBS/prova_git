@@ -1,4 +1,4 @@
 public class Proiettili{
-  public Proiettili(){
+  public Proiettili(int speed){
   }
 }
